@@ -1,0 +1,6 @@
+framework module Pods_CleanArchitectureExampleTests {
+  umbrella header "Pods-CleanArchitectureExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

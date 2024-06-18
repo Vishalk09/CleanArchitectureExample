@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_CleanArchitectureExample_CleanArchitectureExampleUITests : NSObject
+@end
+@implementation PodsDummy_Pods_CleanArchitectureExample_CleanArchitectureExampleUITests
+@end
